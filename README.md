@@ -8,19 +8,19 @@ Les données issus de la base Olist sont d’une importance capitale et stratég
 [Olist dataset sur kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Description des données :
-**Table : **
+**Table :**
 Il s’agit de la structure de la base de données. En effet, elle représente l’ensemble des données organisées. On parle alors d’un élément permettant de stocker des informations structurées de manière tabulaire.
 
-**Classe : **
+**Classe :**
 Il s’agit de la conceptualisation d’un objet réel. Elle permet de définir la structure et les caractéristiques d’un objet.
 
-**Attribut : **
+**Attribut :**
 Il s’agit d’un champ dans une table qui permet de définir le type de donnée qu’elle peut contenir. Ainsi, les attributs définissent la structure de la table.
 
-**Clé primair : e**
+**Clé primaire :**
 Il s’agit d’un attribut ou d’un ensemble d’attributs présent dans la table de base de données permettant d’identifier de manière unique chaque attributs de la table.
 
-**Clé étrangère : **
+**Clé étrangère :**
 Il s’agit d’un attribut dans la table de base de données qui établit une relation entre deux tables et ce grâce au référencement de la clé primaire d’une autre table.On parle alors de relations entre les données.
 
 ### 1 - La base de données d'Olist est structurée en neuf tables distinctes, chacune ayant un rôle spécifique dans l'organisation et la gestion des données :
