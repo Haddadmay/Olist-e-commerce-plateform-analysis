@@ -1,0 +1,43 @@
+## Description des données :
+**Table : **
+Il s’agit de la structure de la base de données. En effet, elle représente l’ensemble des données organisées. On parle alors d’un élément permettant de stocker des informations structurées de manière tabulaire.
+
+**Classe : **
+Il s’agit de la conceptualisation d’un objet réel. Elle permet de définir la structure et les caractéristiques d’un objet.
+
+**Attribut : **
+Il s’agit d’un champ dans une table qui permet de définir le type de donnée qu’elle peut contenir. Ainsi, les attributs définissent la structure de la table.
+
+**Clé primair : e**
+Il s’agit d’un attribut ou d’un ensemble d’attributs présent dans la table de base de données permettant d’identifier de manière unique chaque attributs de la table.
+
+**Clé étrangère : **
+Il s’agit d’un attribut dans la table de base de données qui établit une relation entre deux tables et ce grâce au référencement de la clé primaire d’une autre table.On parle alors de relations entre les données.
+
+### 1 - La base de données d'Olist est structurée en neuf tables distinctes, chacune ayant un rôle spécifique dans l'organisation et la gestion des données :
+**olist_customers :** 
+Cette table contient des informations sur les clients, avec une clé primaire pour identifier de manière unique chaque client.
+
+**olist_geolocation :** 
+Cette table concerne la géolocalisation, mais elle ne dispose pas de clé primaire.
+
+**product_category_name_translation :** 
+Cette table est liée à la traduction des noms de catégories de produits. Elle ne possède pas de clé primaire.
+
+**olist_orders :**
+Cette table recueille des données sur les commandes et possède une clé primaire pour identifier chaque commande de manière unique.
+
+**olist_products :** 
+Elle contient des informations sur les produits, avec une clé primaire pour chaque produit.
+
+**olist_sellers :** 
+Cette table comprend des données sur les vendeurs, avec une clé primaire pour les identifier de manière unique.
+
+**olist_order_reviews :** 
+Elle stocke les avis sur les commandes et dispose d'une clé secondaire liée aux commandes.
+
+**olist_order_payments :** 
+Cette table enregistre des informations sur les paiements, avec une clé secondaire liée aux commandes.
+
+**olist_order_items :** 
+Cette table concerne les articles des commandes, avec une clé secondaire liée aux commandes.
