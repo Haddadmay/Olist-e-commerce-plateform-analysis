@@ -50,3 +50,25 @@ Cette table enregistre des informations sur les paiements, avec une clé seconda
 
 **olist_order_items :** 
 Cette table concerne les articles des commandes, avec une clé secondaire liée aux commandes.
+
+### 2 - aperçu des liaisons principales :
+
+olist_customers est liée à :
+● olist_orders : Relation one-to-many. Chaque client peut passer plusieurs commandes.
+ 
+olist_orders est liée à :
+● olist_order_reviews : Relation one-to-one. Chaque commande peut avoir un seul avis.
+● olist_order_payments : Relation one-to-many. Chaque commande peut avoir plusieurs paiements.
+● olist_order_items : Relation one-to-many. Chaque commande peut contenir plusieurs articles.
+ 
+olist_order_reviews n'a pas de relation directe avec d'autres tables, mais elle est connectée indirectement à travers olist_orders.
+ 
+olist_order_payments et olist_order_items sont tous deux connectés à olist_orders, avec une relation one-to-one (pour les paiements) et one-to-many (pour les articles de commande).
+ 
+olist_products n'a pas de relation directe avec les autres tables, mais il est lié à olist_order_items, qui fait le lien entre les produits et les commandes.
+ 
+olist_sellers n'a pas de relation directe avec d'autres tables, mais il est lié à olist_order_items, permettant de suivre les vendeurs associés à chaque article de commande.
+ 
+olist_geolocation et product_category_name_translation ne sont pas directement liées à d'autres tables dans les exemples donnés
+
+
