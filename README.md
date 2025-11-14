@@ -54,6 +54,7 @@ Cette table concerne les articles des commandes, avec une clé secondaire liée 
 ### 2 - Aperçu des liaisons principales :
 
 olist_customers est liée à :
+
 ● olist_orders : Relation one-to-many. Chaque client peut passer plusieurs commandes.
  
 olist_orders est liée à :
