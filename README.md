@@ -23,7 +23,7 @@ Il s’agit d’un attribut ou d’un ensemble d’attributs présent dans la ta
 **Clé étrangère :**
 Il s’agit d’un attribut dans la table de base de données qui établit une relation entre deux tables et ce grâce au référencement de la clé primaire d’une autre table.On parle alors de relations entre les données.
 
-### 1 - La base de données d'Olist est structurée en neuf tables distinctes, chacune ayant un rôle spécifique dans l'organisation et la gestion des données :
+## La base de données d'Olist est structurée en neuf tables distinctes, chacune ayant un rôle spécifique dans l'organisation et la gestion des données :
 **olist_customers :** 
 Cette table contient des informations sur les clients, avec une clé primaire pour identifier de manière unique chaque client.
 
@@ -50,6 +50,21 @@ Cette table enregistre des informations sur les paiements, avec une clé seconda
 
 **olist_order_items :** 
 Cette table concerne les articles des commandes, avec une clé secondaire liée aux commandes.
+
+## Analyse des données : 
+Pour obtenir des meilleurs insights on répond aux questions suivantes, qui vont permettre par la suite 
+d’avoir une visibilité pertinente et obtenir des meilleures perspectives sur la plateforme de e-commerce 
+afin d’améliorer l’activité.
+1. Les revenues de la plateforme avec le nombre d’ordres et de clients.
+2. Les revenues par année et par mois avec les types de paiement.
+3. Les revenues par provinces et la distribution des clients 
+4. Revenues par catégories de produits.
+5. Nombre de reviews et la moyenne de score review.
+6. Statut de livraison et le nombre de statut de satisfaction par score review.
+7. Top 50 messages et comments review.
+
+### 1. Les revenues de la plateforme avec le nombre d’ordres et de clients : 
+
 
 
 
