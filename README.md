@@ -69,6 +69,60 @@ afin d’améliorer l’activité.
 
 ### 1. Les revenues de la plateforme avec le nombre d’ordres et de clients : 
 
+![capture](Images/revenues.PNG)
+
+La plateforme Olist a pu générer 14M R$ de revenues dans les trois années 2016, 2017 et 2018 avec un nombre de 96,10K clients sur un totale de 99,44K d’ordres.
+
+### 2. Les revenues par année et par mois avec les types de paiement :
+
+![capture](Images/sales%20trend.PNG) 
+![capture](Images/payment%20type.PNG)
+
+Les ventes par année et par Mois permet de visualiser les trends de ventes et distinguer les périodes où la plateforme fait le plus et moins de ventes, ce qui permet à s’améliorer sur les périodes de faible rentabilité.
+Le paiement type représente les choix des payements les plus utilisés par les clients; le credit card, Boleto et  Voucher,  ce qui permet à la plateforme d’adapter ces options de paiements selon les préférences des clients.
+
+### 3. Les revenues par provinces et la distribution des clients :
+
+![capture](Images/sales%20by%20states.PNG) ![capture](Images/customer%20distribution.PNG)
+
+Le graphique représente les ventes de la plateforme effectués par province, et la 
+distribution des clients sur la carte, cela permet aux décideurs de constater les 
+régions moins rentables ou quasiment nulles afin d’améliorer l’activité sur ces 
+régions.  
+Le plus grand nombre de ventes a été réalisé à São Paulo, avec un total de 3,2M de 
+réais. Ensuite, on note l'État de Rio de Janeiro avec 1,1M de réais.
+
+### 4. Revenues par catégories de produits : 
+
+![capture](Images/top%2010%20products.PNG)
+
+La représentation des 10 produits top vendu permet de savoir les quels sont les produits qui ont pu gêner le plus de chiffre d’affaire et aussi de constaté certains caractéristiques ou paramètres qui permettra de pousser d’autres produits à générer plus de chiffre d’affaires.
+les produits les plus vendus sur l'ensemble des années correspondent au "bed bath table", suivi de la "health beauty" et des "sports leisure".
+
+### 5. Nombre de reviews et la moyenne de score review :
+
+![capture](Images/reviews.PNG) 
+
+La moyenne est 3,64 sur 5 de review des clients sur la plateforme sur les trois ans 2016, 2017 et 2018, sur un totale de 41,43K reviews. Ce qui permet de constater l’avis des clients d’une façon générale vis-à-vis de la plateforme.
+
+### 6. Statut de livraison et le nombre de statut de satisfaction par score review :
+
+![capture](Images/avg%20polarity%20review.PNG)
+
+Les graphiques représentent les statuts de commandes avec le score review et le sentiment des clients par rapport à leurs commandes, cela permet donc de savoir l’avis des clients sur leurs commandes et leurs sentiments vis-à-vis de la livraison afin de l’améliorer. 
+On le statut delivered est le plus important avec un pourcentage de 36% et un scor review de 3,74. Les sentiments par rapport à ces statues sont majoritairement neutre avec un pourcentage de 80% et un nombre totale de review 33,5K. 
+
+![capture](Images/polarity%20score.PNG)
+
+### 7. Top 50 messages et comments review :
+
+[capture](Images/top%2050%20msg.PNG)
+
+La représentation des top 50 messages et commentaires des clients,  permet d’avoir l’avis du client sur la plateforme de façon plus personnalisée et plus précise.
+On trouve par exemple en premier pour les commentaires “Arrived earlier” 1313 fois, “Well before term” 707 fois et “Delivered before” 691 fois
+
+
+
 
 
 
