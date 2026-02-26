@@ -101,9 +101,7 @@ les produits les plus vendus sur l'ensemble des années correspondent au "bed ba
 
 ### 5. Nombre de reviews et la moyenne de score review :
 
-![capture](Images/reviews.PNG) 
-
-La moyenne est 3,64 sur 5 de review des clients sur la plateforme sur les trois ans 2016, 2017 et 2018, sur un totale de 41,43K reviews. Ce qui permet de constater l’avis des clients d’une façon générale vis-à-vis de la plateforme.
+![capture](Images/reviews.PNG)  La moyenne est 3,64 sur 5 de review des clients sur la plateforme sur les trois ans 2016, 2017 et 2018, sur un totale de 41,43K reviews. Ce qui permet de constater l’avis des clients d’une façon générale vis-à-vis de la plateforme.
 
 ### 6. Statut de livraison et le nombre de statut de satisfaction par score review :
 
