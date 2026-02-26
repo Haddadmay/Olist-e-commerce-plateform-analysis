@@ -116,7 +116,7 @@ On le statut delivered est le plus important avec un pourcentage de 36% et un sc
 
 ### 7. Top 50 messages et comments review :
 
-[capture](Images/top%2050%20msg.PNG)
+![capture](Images/top%2050%20msg.PNG)
 
 La représentation des top 50 messages et commentaires des clients,  permet d’avoir l’avis du client sur la plateforme de façon plus personnalisée et plus précise.
 On trouve par exemple en premier pour les commentaires “Arrived earlier” 1313 fois, “Well before term” 707 fois et “Delivered before” 691 fois
