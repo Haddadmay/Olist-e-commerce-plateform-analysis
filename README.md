@@ -63,9 +63,8 @@ afin d’améliorer l’activité.
 6. Statut de livraison et le nombre de statut de satisfaction par score review.
 7. Top 50 messages et comments review.
 
-!Images/Capture.PNG
-
-!Images/Capture1.PNG
+![image]Images/Capture.PNG
+![image]Images/Capture1.PNG
 
 ### 1. Les revenues de la plateforme avec le nombre d’ordres et de clients : 
 
