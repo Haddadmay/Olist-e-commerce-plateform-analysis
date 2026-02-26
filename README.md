@@ -64,6 +64,7 @@ afin d’améliorer l’activité.
 7. Top 50 messages et comments review.
 
 ![image]Images/Capture.PNG
+
 ![image]Images/Capture1.PNG
 
 ### 1. Les revenues de la plateforme avec le nombre d’ordres et de clients : 
